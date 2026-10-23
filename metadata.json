@@ -1,0 +1,6 @@
+{
+  "name": "Kebab Finder Česko",
+  "description": "Interaktivní mapa všech prodejen kebabu po celé České republice s hodnocením, cenami, otevírací dobou a vyhledáváním nejbližšího kebabu.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
